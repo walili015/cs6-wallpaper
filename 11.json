@@ -1,9 +1,9 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
-    "admobBanner": "",
-    "admobInterstitial": "",
-    "AdmobNative": "",
+    "adNetwork": "admob",
+    "admobBanner": "ca-app-pub-9436316560771397/4215045125",
+    "admobInterstitial": "ca-app-pub-9436316560771397/3907336636",
+    "AdmobNative": "ca-app-pub-9436316560771397/4953411725",
     "applovinBanner": "6f2fe60d115e6513",
     "applovinInterstitial": "ecd6b2f2d30925c6",
     "ApplovinNative": "bbe98aa8fa7abda7",
