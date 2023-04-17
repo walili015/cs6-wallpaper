@@ -10,6 +10,7 @@
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "Banner_Android",
-    "unityInterstitial": "Interstitial_Android"
+    "unityInterstitial": "Interstitial_Android",
+    "RatingActive": true
   }
 }
